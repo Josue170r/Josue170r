@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Systems Engineer** with **2+ years of experience** specializing in **mobile and backend development**. I graduated from the **Escuela Superior de Cómputo del Instituto Politécnico Nacional (IPN)**. I'm passionate about building practical, well-structured, and scalable solutions that make a real impact.
+I'm a **Systems Engineer** with **2+ years of experience** specializing in **mobile and backend development**. From the **Escuela Superior de Cómputo del Instituto Politécnico Nacional (IPN)**. I'm passionate about building practical, well-structured, and scalable solutions that make a real impact.
 
 - 🔭 Currently working on exciting projects using **Flutter**, **Django**, and **Spring Boot**
 - 🌱 Always learning and exploring new technologies
