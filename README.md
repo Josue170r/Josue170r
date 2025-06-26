@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Systems Engineer** with **2+ years of experience** specializing in **mobile and backend development**. I'm passionate about building practical, well-structured, and scalable solutions that make a real impact.
+I'm a **Systems Engineer** with **2+ years of experience** specializing in **mobile and backend development**. I graduated from the **Escuela Superior de Cómputo del Instituto Politécnico Nacional (IPN)**. I'm passionate about building practical, well-structured, and scalable solutions that make a real impact.
 
 - 🔭 Currently working on exciting projects using **Flutter**, **Django**, and **Spring Boot**
 - 🌱 Always learning and exploring new technologies
@@ -48,28 +48,27 @@ I'm a **Systems Engineer** with **2+ years of experience** specializing in **mob
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Josue170r&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josue170r&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Josue170r&theme=radical)
 
 ## 🌟 Featured Projects
 
 <!-- Add your best projects here -->
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project1&theme=radical)](https://github.com/YourUsername/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project2&theme=radical)](https://github.com/YourUsername/project2)
+[![MTS-Proyect](https://github-readme-stats.vercel.app/api/pin/?username=Josue170r&repo=MTS-Proyect&theme=radical)](https://github.com/Josue170r/MTS-Proyect)
+[![WebBackend-Proyect](https://github-readme-stats.vercel.app/api/pin/?username=Josue170r&repo=WebBackend-Proyect&theme=radical)](https://github.com/Josue170r/WebBackend-Proyect)
 
 ## 💬 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://mx.linkedin.com/in/montalb%C3%A1n-rojas-josu%C3%A9-480484324)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josuemonro@gmail.com)
 
 ---
 
-⭐️ From [YourUsername](https://github.com/YourUsername)
+⭐️ From [Josue170r](https://github.com/Josue170r)
