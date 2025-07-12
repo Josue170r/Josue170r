@@ -52,17 +52,6 @@ I'm a **Systems Engineer** with **2+ years of experience** specializing in **mob
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josue170r&layout=compact&theme=radical)
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Josue170r&theme=radical)
-
-## 🌟 Featured Projects
-
-<!-- Add your best projects here -->
-[![MTS-Proyect](https://github-readme-stats.vercel.app/api/pin/?username=Josue170r&repo=MTS-Proyect&theme=radical)](https://github.com/Josue170r/MTS-Proyect)
-[![WebBackend-Proyect](https://github-readme-stats.vercel.app/api/pin/?username=Josue170r&repo=WebBackend-Proyect&theme=radical)](https://github.com/Josue170r/WebBackend-Proyect)
-[![Comercio-Electronico](https://github-readme-stats.vercel.app/api/pin/?username=Josue170r&repo=Comerio-electr-nico&theme=radical)](https://github.com/Josue170r/Comerio-electr-nico)
-
 ## 💬 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities!
