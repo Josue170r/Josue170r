@@ -1,13 +1,13 @@
-# Hi there! 👋 I'm Josué Montalbán Rojas
+# Hi there! I'm Josué Montalbán Rojas
 
 ## 🚀 About Me
 
 I'm a **Systems Engineer** with **2+ years of experience** specializing in **mobile and backend development**. From the **Escuela Superior de Cómputo del Instituto Politécnico Nacional (IPN)**. I'm passionate about building practical, well-structured, and scalable solutions that make a real impact.
 
-- 🔭 Currently working on exciting projects using **Flutter**, **Django**, and **Spring Boot**
-- 🌱 Always learning and exploring new technologies
-- 💡 I enjoy solving complex problems with clean, maintainable code
-- ⚡ Experience with different software architectures and cloud deployments
+- Currently working on exciting projects using **Flutter**, **Django**, and **Spring Boot**
+- Always learning and exploring new technologies
+- I enjoy solving complex problems with clean, maintainable code
+- Experience with different software architectures and cloud deployments
 
 ## 🛠️ Tech Stack
 
@@ -34,8 +34,6 @@ I'm a **Systems Engineer** with **2+ years of experience** specializing in **mob
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josue170r&layout=compact&theme=radical)
-
 ## 💬 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities!
@@ -45,4 +43,4 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ---
 
-⭐️ From [Josue170r](https://github.com/Josue170r)
+From [Josue170r](https://github.com/Josue170r)
