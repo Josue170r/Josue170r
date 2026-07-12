@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Systems Engineer** with **4+ years of experience** in software development and cloud infrastructure. From the **Escuela Superior de Cómputo del Instituto Politécnico Nacional (IPN)**. Specialized in **backend technologies**, **REST API integration**, and **serverless & microservices architectures**.
+I'm a **Systems Engineer** with **3+ years of experience** in software development and cloud infrastructure. From the **Escuela Superior de Cómputo del Instituto Politécnico Nacional (IPN)**. Specialized in **backend technologies**, **REST API integration**, and **serverless & microservices architectures**.
 
 - Solid experience with cloud services (**AWS** and **Azure**), **Infrastructure as Code** (Terraform, Terragrunt, Ansible) and **CI/CD**
 - Proficient in relational and non-relational databases, unit & integration testing, and agile methodologies
